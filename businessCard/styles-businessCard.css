@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+}
+
+.dankimg {
+    width: 150px;
+}
+
+.card {
+    background: black;
+    border: 5px solid #463f3a;
+    color: whitesmoke;
+    border-bottom: 10px solid grey;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dottedBorder {
+    border: 1px dotted blue;
+}
